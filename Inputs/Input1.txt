@@ -1,0 +1,6 @@
+0. Clone the repo - git clone <repo URL>
+1. Pull - git pull
+2. Make changes - Add, modify, remove files
+3. Stage changes - git add filename/folder
+4. Commit changes - git commit -m "Commit message"
+5. Push changes - git push origin branchName
