@@ -1,0 +1,3 @@
+git branch 			--To check all the branches present
+git branch branchname		--To add new branch
+git checkout branchname		--To switch to another branch
